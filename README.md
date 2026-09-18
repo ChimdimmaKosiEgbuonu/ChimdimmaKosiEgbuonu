@@ -11,6 +11,8 @@ Interests: Exploratory Data Analysis, Learning Coding / Programming Languages, D
 ## Current Projects: 
 
 Creating a streamlit web appplication based on the Palmer's Penguins dataset
+<img width="1800" height="2078" alt="image" src="https://github.com/user-attachments/assets/2780dca1-4436-48d3-90e1-72f3ac4a1761" />
+
 
 ## Skills:
 
