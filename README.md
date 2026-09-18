@@ -11,7 +11,7 @@ Interests: Exploratory Data Analysis, Learning Coding / Programming Languages, D
 ## Current Projects: 
 
 Creating a streamlit web appplication based on the Palmer's Penguins dataset
-<img width="1800" height="2078" alt="image" src="https://github.com/user-attachments/assets/2780dca1-4436-48d3-90e1-72f3ac4a1761" />
+<img width="3887" height="2502" alt="image" src="https://github.com/user-attachments/assets/1774d7d5-3d8f-46b0-ae01-296bd1d631d3" />
 Credit and All Rights Reserved to Allison Horst
 
 ## Skills:
