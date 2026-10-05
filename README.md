@@ -8,7 +8,7 @@ Major / Minors: Major in Global Affairs, Minors in Data Science and Computing & 
 
 Interests: Exploratory Data Analysis, Learning Coding / Programming Languages, Data Visualization
 
-# Here are the links to my portfolios for my coursework at Notre Dame!
+# Portfolio Links
 
 Elements of Computing II (Python, Spring 2026): https://github.com/ChimdimmaKosiEgbuonu/Egbuonu-elements-of-computing-ii
 Introduction to Data Science (Fall 2026): https://github.com/ChimdimmaKosiEgbuonu/Egbuonu-Data-Science-Portfolio
