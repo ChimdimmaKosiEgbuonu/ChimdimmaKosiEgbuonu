@@ -10,8 +10,8 @@ Interests: Exploratory Data Analysis, Learning Coding / Programming Languages, D
 
 # Here are the links to my portfolios for my coursework at Notre Dame!
 
-Elements of Computing II (Python, Spring 2026): 
-Introduction to Data Science (Fall 2026): 
+Elements of Computing II (Python, Spring 2026): https://github.com/ChimdimmaKosiEgbuonu/Egbuonu-elements-of-computing-ii
+Introduction to Data Science (Fall 2026): https://github.com/ChimdimmaKosiEgbuonu/Egbuonu-Data-Science-Portfolio
 
 
 ## Current Projects: 
