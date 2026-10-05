@@ -9,6 +9,13 @@ Major / Minors: Major in Global Affairs, Minors in Data Science and Computing & 
 Interests: Exploratory Data Analysis, Learning Coding / Programming Languages, Data Visualization
 
 ## Current Projects: 
+Here are the links to my portfolios for my coursework at Notre Dame!
+
+
+# Elements of Computing II (Python, Spring 2026): 
+# Introduction to Data Science (Fall 2026): 
+
+
 
 Creating a Streamlit web appplication based on the Palmer's Penguins dataset (Ongoing Project, Fall 2026)
 <img width="3887" height="2502" alt="image" src="https://github.com/user-attachments/assets/1774d7d5-3d8f-46b0-ae01-296bd1d631d3" />
